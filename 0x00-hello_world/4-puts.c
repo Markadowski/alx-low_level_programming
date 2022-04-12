@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
 * main - Entry point
@@ -9,4 +8,3 @@ int main (void)
 Puts("/"Programming is like building a multilingual puzzle");
 return (o);
 }
-
