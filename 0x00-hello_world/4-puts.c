@@ -3,9 +3,10 @@
 /**
 * main - Entry point
 *
-* Retutn: always 0 (success)
+* Retutn: Always o (Success)
 int main (void) 
 { 
-puts("/Programming is like building a multilingual puzzle");
-return (0)
+Puts("/"Programming is like building a multilingual puzzle");
+return (o);
 }
+
